@@ -13,13 +13,14 @@ website:
       - href: index.qmd
         text: "Home"
       - href: syllabus/syllabus.qmd
-        text: "Syllabus"
+        text: "Seminar Syllabus"
+      - href: schedule/schedule.qmd
+        text: "Seminar Schedule"
       - href: timeline/timeline.qmd
         text: "Capstone Timeline"
       - href: milestones/milestones.qmd
         text: "Capstone Milestones"
-      - href: schedule/schedule.qmd
-        text: "Seminar Schedule"
+
     search: true
   favicon: favicon.png
   page-footer:
