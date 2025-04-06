@@ -1,0 +1,57 @@
+---
+title: "Capstone Timeline"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Capstone Timeline
+
+**Semester 2 (Spring)**
+
+-   Capstone adoption process begins - all students complete the capstone adoption web form
+
+-   UP 510 Workshop assignments are shared by the department and the department enrolls students in their assigned UP 510 fall workshops
+
+**Semester 3 (Fall)**
+
+-   PDF capstone adoption form due for students petitioning onto the project or thesis pathways
+-   Updated Plan of Study
+-   Introduce capstone requirements including portfolio and poster requirements
+
+**Semester 4 (Spring)**
+
+-   Draft poster submission
+-   Draft poster review session
+-   Department awards ceremony and poster event (finals week)
+-   Final exit deliverables due (finals week)
+
+### Key Dates for Spring 2026 Graduates
+
++-----------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Date            | Deliverable                                       | Description                                                                                                                                                                                    |
++=================+===================================================+================================================================================================================================================================================================+
+| **May 2, 2025** | Complete capstone adoption web form               | -   All second-semester MUP students will complete the capstone adoption web form to indicate their proposed capstone pathway and workshop preferences                                         |
+|                 |                                                   |                                                                                                                                                                                                |
+|                 |                                                   | -   The department's graduate programs staff will automatically register you for your assigned UP 510 workshop courses for fall and spring.                                                    |
++-----------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **March 2026**  | Draft Project / Thesis to Adviser                 | -   Students pursuing the Project or Thesis pathways submit a complete first draft of their capstones to their adviser for review and comments                                                 |
++-----------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **April 2026**  | Draft Poster Submission                           | -   Submit your draft poster to the Box file dropbox below.                                                                                                                                    |
+|                 |                                                   |                                                                                                                                                                                                |
+|                 |                                                   | -   Submissions must follow this naming convention: LastName_FirstName_PosterDraft.pdf                                                                                                         |
++-----------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **April 2026**  | Draft Poster Review and Markup                    | -   The poster review and markup will take place between 12:00 and 2:00 pm in TBH 227. Please have your poster pinned up in TBH 227 before 12:00 pm.                                           |
+|                 |                                                   | -   We will invite you and other students and faculty to provide feedback on your poster (12:00 – 2:00 pm). Please be prepared for your draft poster to be written on and marked up.           |
++-----------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **May 2026**    | Capstone Poster Presentations and Awards Ceremony | -   Time to celebrate your accomplishments! The Poster Presentations and Awards Ceremony is 5:00 - 7:00 PM in the TBH Blicharski Atrium. This is a public event and all are welcome to attend. |
+|                 |                                                   | -   Please print a copy of your final polished poster and pin it up in the Blicharski Atrium between 2:00 pm and 4:30 pm.                                                                      |
+|                 |                                                   | -   Event starts at 5:00 PM                                                                                                                                                                    |
+|                 |                                                   | -   Awards Ceremony 5:00 PM - 5:30 PM                                                                                                                                                          |
+|                 |                                                   | -   5:30 PM - 7:00 PM Talk about and share your work with our broader departmental community, local practitioners, faculty, and alumni.                                                        |
++-----------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **May 2026**    | Capstone Submission Deadline                      | -   Upload your final capstone deliverables *including adviser signature* before this date (more details below).                                                                               |
++-----------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Key Capstone Dates Spring 2026

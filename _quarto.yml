@@ -14,77 +14,18 @@ website:
         text: "Home"
       - href: syllabus/syllabus.qmd
         text: "Syllabus"
+      - href: timeline/timeline.qmd
+        text: "Capstone Timeline"
       - href: milestones/milestones.qmd
-        text: "Milestones"
+        text: "Capstone Milestones"
       - href: schedule/schedule.qmd
-        text: "Schedule"
+        text: "Seminar Schedule"
     search: true
   favicon: favicon.png
   page-footer:
     left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
     right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) </br> Website Code on [Github {{< fa brands github >}}]({{< var course.github >}})"
 
-  sidebar:
-    - title: "Schedule"
-      style: "docked"
-      contents:
-        - section: "Schedule"
-          contents:
-            - text: "Schedule Overview"
-              file: schedule/schedule.qmd
-            - text: "Week 1: Seminar Introduction"
-              file: schedule/01_Introduction.qmd
-            - text: "Week 2: Defining Your Capstone"
-              file: schedule/02_Defining.qmd
-            - text: "Week 3: Defining Outputs"
-              file: schedule/03_Outputs.qmd
-            - text: "Week 4: Developing Your 2-Year Professional Development Plan"
-              file: schedule/04_DevelopmentPlan.qmd
-            - text: "Week 5: 	No Class - APA-IL Conference"
-            - text: "Week 6: Defining a Plan Ecosystem"
-              file: schedule/06_PlanEcosystem.qmd
-            - text: "Week 7: Methods"
-              file: schedule/07_Methods.qmd
-            - text: "Week 8: Independent Work - No Class"
-            - text: "Week 9: Developing a Professional Portfolio - Session 1"
-              file: schedule/09_Portfolio1.qmd
-            - text: "Week 10: Participation and Stakeholder Engagement"
-              file: schedule/10_Participation.qmd
-            - text: "Week 11: Independent Work - No Class"
-            - text: "Week 12: Writing Skills"
-              file: schedule/12_WritingSkills.qmd
-            - text: "Week 13: Developing a Professional Portfolio - Session 2"
-              file: schedule/13_Portfolio2.qmd
-            - text: "Week 14: Fall Break - No Class"    
-            - text: "Week 15: End of Semester Check-In"
-              file: schedule/15_CheckIn.qmd
-            - text: "Week 16: Semester 2 Check-In"
-              file: schedule/16_CheckIn.qmd
-            - text: "Week 17: Developing a Job Search Strategy"
-              file: schedule/17_JobSearch.qmd
-            - text: "Week 18: Interviewing for Jobs or Ph.D. Programs"
-              file: schedule/18_Interviewing.qmd
-            - text: "Week 19: Claiming Your Professional Identity"
-              file: schedule/19_Identity.qmd
-            - text: "Week 20: Capstone Draft Poster Markup"
-              file: schedule/20_Poster.qmd
-    - title: "Milestones"
-      style: "docked"
-      contents:
-        - section: "Milestones Overview"
-          contents:
-            - text: "Plan of Study Update"
-              file: schedule/01_planofstudy.qmd
-            - text: "Capstone Adoption"
-              file: schedule/02_capstoneadoption.qmd
-            - text: "Monthly Progress Memo"
-              file: schedule/03_progressmemo.qmd
-            - text: "Professional Development Plan"
-              file: schedule/04_developmentplan.qmd
-            - text: "Portfolio"
-              file: schedule/05_portfolio.qmd
-            - text: "Capstone"
-              file: schedule/06_capstone.qmd
 format:
   html:
     theme:
