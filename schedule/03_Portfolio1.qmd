@@ -24,7 +24,7 @@ We will review selected key documents which you plan to include in your portfoli
 
 ## Before we Meet
 
-- Review the [portfolio requirements](../milestones/05_portfolioqmd.qmd) outlined in the Portfolio Milestone description.
+- Review the [portfolio requirements](../milestones/04_portfolio.qmd) outlined in the Portfolio Milestone description.
 
 - Identify 2-3 key documents which you may want to include or in some way highlight in your portfolio. Bring digital copies of those documents to class.
 
