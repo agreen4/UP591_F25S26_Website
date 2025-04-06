@@ -1,0 +1,43 @@
+---
+title: "Defining Your Capstone"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+### Learn
+
+We'll spend time examining common capstone formats and formatting requirements.
+
+### Reflect
+
+In class, you will present on a prior MUP student's capstone of your choice, providing a critical review and critique of their product.
+
+### Review
+
+Based upon your critical review of a prior capstone, you'll take time to articulate your proposed approach to your project or thesis.
+
+## Before we Meet
+
+Using the databases listed below in the Resources section, identify a MUP capstone from a prior year that is related to your own capstone to review. Complete a critical review of the capstone, and come to class prepared to deliver a 5-minute presentation that summarizes the following:
+
+1. The main goals and objectives of the capstone.
+
+2. The target audience for the capstone.
+
+3. The approach taken.
+
+4. Key findings.
+
+5. Your critical assessment of the capstone - what was particularly effective? What would you have done differently?
+
+## After we Meet
+
+## Additional Resources
+
+- [UIUC IDEALS Database](https://www.ideals.illinois.edu)
+
+- [MUP Projects (1970 - 2018)](https://www.library.illinois.edu/cpla/theses/mpurp/)
+
+- [MUP Theses (1959 - 2018)](https://www.library.illinois.edu/cpla/theses/mturp/)

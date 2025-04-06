@@ -1,0 +1,21 @@
+---
+title: "Semester 2 Check-In"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+Welcome back from winter break! In this session, we'll review the expectations and requirements for your end of semester deliverables, and will talk more about implementing your professional development and job search plans this spring.
+
+### Learn
+### Reflect
+### Review
+
+## Before we Meet
+
+Bring any questions you have about spring semester milestones, capstone deliverables, and professional development.
+
+## After we Meet
+
+## Additional Resources

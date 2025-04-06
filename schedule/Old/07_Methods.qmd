@@ -1,0 +1,35 @@
+---
+title: "Methods"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+### Learn
+We will spend time reviewing some of the common methods employed in Masters capstone projects and theses, as well as key questions for articulating and refining these approaches.
+
+### Reflect
+In class, you will construct a 5 slide methods presentation making use of the following format:
+
+**Slide 1:** Project Overview - what is the key question you seek to engage or intervene upon?
+
+**Slide 2:** What is the context for this work? What background matters or helps to frame your approach to this question?
+
+**Slide 3:** How do you plan to engage this question? What are are the key strategies you'll take to intervene?
+
+**Slide 4:** What are the key outputs or types of insight that will emerge from your analysis or intervention?
+
+**Slide 5:** How do you envision your client / project partner / scholarly community integrate your insights into their decision making or work?
+
+### Review
+
+In class, you will present your storyboard and receive group feedback.
+
+## Before we Meet
+
+Think about how to describe your methodological approach to your capstone project.
+
+## After we Meet
+
+## Additional Resources
