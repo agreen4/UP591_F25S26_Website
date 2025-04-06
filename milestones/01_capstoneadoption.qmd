@@ -8,7 +8,7 @@ editor: source
 
 ## Deliverable Overview
 
-In the spring semester before your second year, you will identify which capstone pathway you plan to pursue and will share your preferences for which workshop courses you will take in your second year.
+In the spring semester before your second year, you will identify which capstone pathway you plan to pursue and will share your preferences for which workshop courses you will take in your second year. The process of adopting your capstone is described below, including the use of the capstone adoption [web form](https://forms.illinois.edu/sec/1915761140) (for all pathways) and the [capstone adoption form](files/02_CapstoneAdoption.pdf) (required in addition to the web form for project and thesis pathways).
 
 ## Capstone Pathways
 
@@ -26,7 +26,9 @@ One of your first tasks is to "adopt" your capstone project. You will do this in
 
 ### UP 510 Workshop Descriptions
 
-You will have four UP 510 Plan Making Workshop courses to choose from in your second year of the program. Most MUP students will elect to take two workshops, one in the fall semester, and one in the spring semester. Given the intenseive nature of workshops, in general the department does not allow students to register for more than one UP 510 offering per semester.
+You will have four UP 510 Plan Making Workshop courses to choose from in your second year of the program. Most MUP students will elect to take two workshops, one in the fall semester, and one in the spring semester. Given the intensive nature of workshops, the department does not allow students to register for more than one UP 510 offering per semester.
+
+Unlike most of the other classes you take in our department, we will assign you to workshop courses taking into account your stated preferences as well as the unique demands of each workshop offering. You will complete the capstone adoption [web form](https://forms.illinois.edu/sec/1915761140) to share your preferences. The department will then assign and enroll you in fall and spring workshop offerings.
 
 Below, are general descriptions of the UP 510: Plan Making Workshops being offered in Academic Year 2025-2026.
 
@@ -42,7 +44,7 @@ Below, are general descriptions of the UP 510: Plan Making Workshops being offer
 
 **Expected Outputs:** Outputs from this workshop will include a polished professional small area type plan that synthesizes stakeholder input and background information and includes a development concept, site plan and implementation strategies. Students will also be expected to present this information to decision makers at the City of Bloomington.
 
-#### CEJA Implementation Planning (Fall 2025)
+#### Climate and Workforce Development (Fall 2025)
 
 **Instructor:** Marc Doussard
 
@@ -54,7 +56,7 @@ Below, are general descriptions of the UP 510: Plan Making Workshops being offer
 
 **Expected Outputs:** At the workshop’s conclusion, you will produce a detailed, comparative study of climate-jobs political coalitions across key Illinois cities. The study will apply the political theories you learned to data on organizations active in climate jobs, and interviews to determine the current challenges facing the law’s implementation. You will conclude the course with experience evaluating how plans and policies are actually implemented.
 
-#### Transnational Economic Development (Spring 2026)
+#### Global Urban Economic Development (Spring 2026)
 
 **Instructor:** Kerry Fang
 
