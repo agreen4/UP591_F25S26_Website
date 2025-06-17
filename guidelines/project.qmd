@@ -1,0 +1,13 @@
+---
+title: "Guidelines: MUP Project"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Pathway Description
+
+A professional project or analysis focusing on a topic relevant to the student’s selected concentration and career goals. The audience for a master’s project is typically planning and policy practitioners and decisionmakers. The capstone deliverable may be a report, a plan, or other professional quality work. The project is conducted for or with an external client.
+
+## Proposal Development

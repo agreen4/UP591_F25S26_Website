@@ -1,0 +1,21 @@
+---
+title: "Guidelines: MUP Thesis"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Pathway Description
+
+A scholarly applied or basic research work conducted under the formal Thesis Guidelines of the Department and Graduate College. The audience for a master’s thesis is typically academic and applied researchers. The thesis option is most appropriate for MUP students with a strong interest in pursuing a research-oriented career or PhD degree.
+
+## Proposal Development
+
+### Proposal Components
+
+### Proposal Approval
+
+### Proposal Timeline
+
+## Thesis Committee Guidelines

@@ -20,7 +20,8 @@ website:
         text: "Capstone Timeline"
       - href: milestones/milestones.qmd
         text: "Capstone Milestones"
-
+      - href: guidelines/guidelines.qmd
+        text: "Guidelines"
     search: true
   favicon: favicon.png
   page-footer:

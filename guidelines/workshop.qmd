@@ -1,0 +1,11 @@
+---
+title: "Guidelines: MUP Workshop"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Pathway Description
+
+Exposure to professional planning practice by completing two plan making workshops. The audience for the projects completed in these workshops is typically planning and policy practitioners and decision makers. Faculty workshop leaders work in partnership with an institution, organization, or community partner to determine the scope and deliverable from the workshop in advance. Typical workshop deliverables may be a report, a plan, or other professional quality work.
