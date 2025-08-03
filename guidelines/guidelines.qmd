@@ -1,12 +1,4 @@
----
-title: "Guidelines"
-format: html
-toc: true
-sidebar: true
-editor: source
----
-
-## Capstone Proposal Guidelines
+# Capstone Proposal Guidelines
 
 | Capstone Pathway | Description |
 |-----------------------------|-------------------------------------------|
