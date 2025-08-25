@@ -18,10 +18,6 @@ We will begin our class by reviewing the overall structure of a portfolio and it
 
 We will next start thinking about key documents and forms of evidence that you will incorporate in your portfolio. These may include examples that come from your coursework, internships, capstone, and other forms of engagement you have undertaken that help define and provide evidence for your identity as a planning professional.
 
-### Review
-
-We will review selected key documents which you plan to include in your portfolio, thinking about where and how they may fit in the structure, and what elements you want to highlight.
-
 ## Before we Meet
 
 - Review the [portfolio requirements](../milestones/04_portfolio.qmd) outlined in the Portfolio Milestone description.
