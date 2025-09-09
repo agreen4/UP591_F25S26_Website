@@ -18,12 +18,12 @@ website:
           text: "Seminar Syllabus"
         - href: schedule/schedule.qmd
           text: "Seminar Schedule"
+        - href: milestones/milestones.qmd
+          text: "Milestones and Assignments"
       - text: Capstone Guidelines
         menu:
         - href: timeline/timeline.qmd
           text: "Capstone Timeline"
-        - href: milestones/milestones.qmd
-          text: "Capstone Milestones"
         - href: guidelines/guidelines.qmd
           text: "Guidelines"
     search: true
