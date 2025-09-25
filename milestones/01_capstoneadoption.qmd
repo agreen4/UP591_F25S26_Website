@@ -8,11 +8,11 @@ editor: source
 
 ## Deliverable Overview
 
-In the spring semester before your second year, you will identify which capstone pathway you plan to pursue and will share your preferences for which workshop courses you will take in your second year. The process of adopting your capstone is described below, including the use of the capstone adoption [web form](https://forms.illinois.edu/sec/1915761140) (for all pathways) and the [capstone adoption form](files/02_CapstoneAdoption.pdf) (required in addition to the web form for project and thesis pathways).
+In the spring semester before your second year, you will identify which capstone pathway you plan to pursue and will share your preferences for which workshop courses you will take in your second year. The process of adopting your capstone is described below, including the use of the capstone adoption [web form](https://forms.illinois.edu/sec/1915761140) (for all pathways) and the [capstone adoption form](files/02_CapstoneAdoption.pdf) (required in addition to the web form for all pathways).
 
 ## Capstone Pathways
 
-There are three pathways to satisfy the practice component of the MUP capstone requirement. By default, you are expected to pursue the Plan Making Workshop pathway. Students wishing to pursue the Project Pathway or Thesis Pathway need to describe their projects and petition to adopt an alternate pathway.
+There are three pathways to satisfy the practice component of the MUP capstone requirement. By default, you are expected to pursue the Plan Making Workshop pathway. Students wishing to pursue the Project Pathway or Thesis Pathway need to describe their projects in detail and petition to adopt an alternate pathway.
 
 **Plan Making Workshop:** Exposure to professional planning practice by completing two plan making workshops. The audience for the projects completed in these workshops is typically planning and policy practitioners and decision makers. Faculty workshop leaders work in partnership with an institution, organization, or community partner to determine the scope and deliverables from the workshop in advance. Typical workshop deliverables may be a report, a plan, or other professional quality work.
 
@@ -84,21 +84,24 @@ Over the course of this workshop, we will work with the Central Illinois Land Ba
 
 ### Additional Documentation for Projects and Theses
 
--   For the **Project Pathway** you need to share a detailed description of your projects subject and scope, a description of your client, and need to secure the signature of your client and the faculty member who has agreed to supervise your project.
+-   For the **Project Pathway** you need to share a detailed description of your projects subject and scope, a description of your client, and need to secure the signature of your client and the faculty member who has agreed to supervise your project. Detailed [project proposal guidelines](../guidelines/project.qmd) are available under the pathway description.
 
--   For the **Thesis Pathway** you need to share a project abstract and need to secure the signature of your thesis advisor and a second faculty committee member. You should have also shared a detailed proposal with both your thesis adviser and your other committee member by the time you adopt your capstone.
+-   For the **Thesis Pathway** you need to share a project abstract and need to secure the signature of your thesis advisor and a second faculty committee member. You should have also shared a detailed proposal with both your thesis adviser and your other committee member by the time you adopt your capstone.Detailed [thesis proposal guidelines](../guidelines/thesis.qmd) are available under the pathway description.
 
 ## Milestone Deliverable
 
-If you pursue the Workshop pathway, the only needed documentation is the submission of the pathway adoption web form. For those who are petitioning to adopt the project or thesis pathway, please complete the [Capstone Adoption Form](files/02_CapstoneAdoption.pdf), including all required signatures (based upon the capstone pathway you are pursuing) and submit to the file dropbox below.
+If you pursue the Workshop pathway, the only needed documentation is the submission of the pathway adoption web form in the spring of your first year, and the capstone adoption form in the fall of the second year. For those who are petitioning to adopt the project or thesis pathway, please complete the [Capstone Adoption Form](files/02_CapstoneAdoption.pdf), including all required signatures (based upon the capstone pathway you are pursuing) and including your proposal and submit to the file dropbox below.
 
 ## Resources
 
 -   [Capstone Adoption Form](files/02_CapstoneAdoption.pdf)
+- Detailed [pathway descriptions](../guidelines/guidelines.qmd) and proposal guidelines for the [Project](../guidelines/project.qmd) and [Thesis](../guidelines/thesis.qmd) pathways
 
 ## Submission Instructions
 
 All capstone pathways will complete the capstone adoption [web form](https://forms.illinois.edu/sec/1915761140) to indicate the proposed capstone pathway and preferences regarding workshop offerings.
+
+Individuals pursuing the **workshop** pathway must subsequently submit the PDF Capstone Adoption Form (no additional signatures required). The initial submission should be made using the below file dropbox:
 
 Individuals pursuing the **project** or **thesis** pathways must subsequently submit the PDF Capstone Adoption Form with all required signatures to petition into these alternate pathways. The initial submission should be made using the below file dropbox:
 
